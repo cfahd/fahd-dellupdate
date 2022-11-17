@@ -14,7 +14,6 @@
 ![Screenshot](/Capture2.PNG)
 
 ## Authors
-Cancel changes
 Contributors names and contact info
 
 Developer: [@cFahd](https://github.com/cfahd/)
